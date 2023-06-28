@@ -1,6 +1,6 @@
 # Hello World 9999
 
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/pnminh/first-github-action/test-action.yaml?branch=main&label=CI&logo=github&style=flat-square)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/pnminh/first-github-action/test-action.yaml?branch=main&label=hello-world-9999&logo=github&style=flat-square)
 
 This action is so special it prints out "Hello World"
 
