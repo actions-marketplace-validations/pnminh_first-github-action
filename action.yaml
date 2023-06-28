@@ -1,0 +1,9 @@
+name: hello world 9999
+description: an action that will print out "hello world"
+author: Minh Pham <pnminh232@gmail.com>
+branding:
+  icon: printer
+  color: 'green'
+runs: 
+  using: docker
+  image: Dockerfile
